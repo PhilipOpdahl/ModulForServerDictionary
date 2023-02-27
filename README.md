@@ -1,0 +1,2 @@
+# ModulForServerDictionary
+Dictionary modul
